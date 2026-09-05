@@ -1,2 +1,3 @@
-# .github
-The Mystic Framework public README.
+# mystic-framework/.github
+
+This repository holds MFW's README.
