@@ -5,7 +5,7 @@
         <img
           src="https://res.cloudinary.com/dqpszz96x/image/upload/v1788529194/favicon_ry6wga.svg"
           width="100px"
-          alt="The Dev Mystic Banner"
+          alt="Mystic Framework Logo"
         />
       </td>
       <td valign="middle">
