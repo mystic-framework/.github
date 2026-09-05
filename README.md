@@ -1,3 +1,3 @@
 # mystic-framework/.github
 
-This repository holds MFW's README.
+Organization-wide defaults for GitHub functionalities.
